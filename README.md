@@ -29,5 +29,5 @@ If the command is unrecognized, the assistant will automatically perform a **Goo
    Clone this repository to your local machine to get started.
    
 
-##  Link Of The Project :- https://sumit1608kumar.github.io/AI-Assitant/
+##  Link Of The Project :- (https://sumit1608kumar.github.io/AI-Assistant/)
 
