@@ -1,6 +1,7 @@
 # AI-Assitant
 
-### Files
+### File
+---------
 #### index.html: The main HTML file that contains the structure of the web page.
 #### script.js: The JavaScript file that handles speech recognition and command execution.
 #### style.css: The CSS file that styles the web page.
