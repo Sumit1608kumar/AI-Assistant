@@ -1,35 +1,33 @@
-# AI-Assitant
+# AI Assistant - Voice Command Web Application
 
-### File
----------
-#### index.html: The main HTML file that contains the structure of the web page.
-#### script.js: The JavaScript file that handles speech recognition and command execution.
-#### style.css: The CSS file that styles the web page.
+## ✨ Overview
 
-### Features
-#### Speech Recognition: Uses the Web Speech API to recognize voice commands.
-#### Text-to-Speech: Provides audio feedback using the Web Speech API.
-#### Command Handling: Opens popular websites or performs Google searches based on recognized commands.
+The **AI Assistant** is a web-based voice command system that utilizes the **Web Speech API** to recognize voice inputs and perform specific actions such as opening popular websites or conducting Google searches. It's designed to provide an intuitive and interactive experience using **Speech Recognition** and **Text-to-Speech** features.
 
-### Commands
-#### The assistant can recognize and respond to the following commands:
-##### "Open YouTube"
-##### "Open Google"
-##### "Open Facebook"
-##### "Open Instagram"
-##### "Open WhatsApp"
-##### "Open GitHub"
-#### If the command is not recognized, it will perform a Google search for the given command.
+### 🌟 Key Features
+- **Speech Recognition**: Uses the Web Speech API to understand voice commands.
+- **Text-to-Speech**: Provides feedback with spoken responses for a hands-free experience.
+- **Command Handling**: Executes actions based on recognized commands, such as opening websites or performing Google searches.
 
-### Usage
-#### Open index.html in a web browser.
-#### Click the "Start Listening" button.
-#### Speak a command (e.g., "Open YouTube").
-#### The assistant will respond and perform the corresponding action.
+### 🎯 Commands Supported
+The AI Assistant can recognize and respond to the following voice commands:
 
-### Setup
-#### To run the project locally, follow these steps:
-##### Clone the repository.
-##### Open index.html in a web browser.
+- **"Open YouTube"**
+- **"Open Google"**
+- **"Open Facebook"**
+- **"Open Instagram"**
+- **"Open WhatsApp"**
+- **"Open GitHub"**
 
-# Link Of The Project :- https://sumit1608kumar.github.io/AI-Assitant/
+If the command is unrecognized, the assistant will automatically perform a **Google Search** for the command.
+
+---
+
+## 🛠️ Usage
+
+1. **Clone the Repository**:  
+   Clone this repository to your local machine to get started.
+   
+   ```bash
+   git clone https://github.com/sumit1608kumar/AI-Assitant.git
+
