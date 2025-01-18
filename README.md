@@ -28,6 +28,6 @@ If the command is unrecognized, the assistant will automatically perform a **Goo
 1. **Clone the Repository**:  
    Clone this repository to your local machine to get started.
    
-   ```bash
-   git clone https://github.com/sumit1608kumar/AI-Assitant.git
+
+##  Link Of The Project :- https://sumit1608kumar.github.io/AI-Assitant/
 
